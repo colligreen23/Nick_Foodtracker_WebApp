@@ -2,7 +2,7 @@
 "name": "food-tracker-app",
 "version": "0.1.0",
 "private": true,
-"homepage": "https://<your-username>.github.io/<your-repository-name>",
+"homepage": "https://colligreen23.github.io/Nick_Foodtracker_WebApp/",
 "dependencies": {
 "firebase": "^10.12.3",
 "react": "^18.3.1",
